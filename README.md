@@ -1,1 +1,1 @@
-# Algorithm-solutions-and-explaniations
+# Algorithm-solutions-and-explainations
