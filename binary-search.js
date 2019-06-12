@@ -6,7 +6,7 @@ function binarySearch(array, target) {
   // I define the right pointer value which is used to keep track of the end of our current subarray.
 	let rightPointer = array.length - 1;
   
-  // The left pointer is used to keep track of the beginning f our subarray.
+  // The left pointer is used to keep track of the beginning of our subarray.
 	let leftPointer = 0;
   
   /* The middle index is initialized with this algorithm. We're basically just finding the middle of our subarray by taking
